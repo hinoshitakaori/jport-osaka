@@ -1,0 +1,44 @@
+
+.title{
+    text-align: center;
+    text-decoration:underline;
+    text-decoration-color:black;
+    font-size: 30px;
+    line-height: 4;
+}
+.a-photo{
+    margin: 0 auto;
+}
+.b-photo{
+    margin: 0 auto;
+}
+.text1{
+    text-align: center;
+    line-height: 0.5;
+}
+.text{
+    text-align: center;
+    line-height: 0.5;
+    font-weight: bold;
+}
+.mainv{
+    display: block;
+    width:100%;
+    height: auto;
+}
+.sub{
+    padding: 10 0;
+    font-size: 15px;
+    text-align: right;
+    
+}
+.profile{
+   margin-left: 0 auto;
+    text-align: left;
+    size: 10px;
+
+}
+footer{
+    font-size: 10px;
+    text-align: center;
+}
