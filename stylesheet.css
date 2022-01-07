@@ -1,14 +1,4 @@
 
-.title{
-    text-align: center;
-    font-size: 30px;
-
-    border-bottom:1px solid black ;
-    margin-left: 540px;
-    margin-right: 540px;
-    margin-top: 30px;
-    margin-bottom: 50px;
-}
 .a-photo{
     margin: 0 auto;
 }
@@ -59,12 +49,9 @@ footer{
     padding-right: 40px;
 }
 .about{
-    padding-right:20px;
+    padding-right: 40px;
 }
-.abouttable{
-    margin-left: 400px;
-    
-}
+
 .texttext{
     padding-left: 20px;
     width:400px;
@@ -87,3 +74,11 @@ footer{
 .b-photo td{
     text-align: center;
 }
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom:1px solid black ;
+}
+
