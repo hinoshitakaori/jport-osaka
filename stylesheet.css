@@ -1,10 +1,5 @@
 
-.a-photo{
-    margin: 0 auto;
-}
-.b-photo{
-    margin: 0 auto;
-}
+
 .text1{
     text-align: center;
     line-height: 0.5;
@@ -44,6 +39,7 @@
 footer{
     font-size: 10px;
     text-align: center;
+    margin-top: 50px;
 }
 .bi{
     padding-right: 40px;
@@ -71,14 +67,51 @@ footer{
    padding-bottom: 70px;
     text-align: left;
 }
-.b-photo td{
-    text-align: center;
-}
 
 .title{
     text-align: center;
     font-size: 30px;
     font-weight: bold;
     border-bottom:1px solid black ;
+    margin-bottom: 50px;
 }
 
+.wrap{
+    width: 800px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+   
+    
+   
+}
+.bphoto{
+    float: left;
+    width: 250px;
+    margin-right: 20px;
+}
+.cphoto{
+    float: left;
+    width: 250px;
+    margin-right:20px;
+}
+.dphoto{
+    float:left;
+    width: 250px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.abouttable{
+   margin-left: 150px;
+}
+li{
+    list-style: none;
+    text-align: center;
+    padding-top: 20px;
+}
+.ti{
+    font-weight: bold;
+}
