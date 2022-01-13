@@ -11,14 +11,14 @@
 
 .profile{
    float:left;
-   margin-left: auto;
    padding-top: 10px;
-   
+   padding-bottom: 10px;
+   margin-left: 200px;
    
 }
 .sub {
     float:right;
-    margin-right: auto;
+    margin-right: 200px;
     margin-top: 0px;
     padding-top: 10px;
    
@@ -65,10 +65,12 @@ footer{
     margin-bottom: 50px;
 }
 
-.wrap{
-    width: 800px;
-    margin: auto;
+.wrapy{
+    width: 790px;
     margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
    
     
    
@@ -77,15 +79,18 @@ footer{
     float: left;
     width: 250px;
     margin-right: 20px;
+    
 }
 .cphoto{
     float: left;
     width: 250px;
     margin-right:20px;
+    
 }
 .dphoto{
     float:left;
     width: 250px;
+   
 }
 
 h2{
@@ -94,7 +99,8 @@ h2{
     margin-bottom: 50px;
 }
 .abouttable{
-   margin-left: 150px;
+    margin-left: auto;
+    margin-right: auto;
 }
 li{
     list-style: none;
@@ -106,4 +112,5 @@ li{
 }
 header{
    clear: both;
+ 
 }
